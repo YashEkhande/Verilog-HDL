@@ -5,3 +5,4 @@
 📫 How to reach me: mail- yash.ekhande4@gmail.com ,Linkedin- https://www.linkedin.com/in/yash-ekhande-982382289/ 
 😄 Pronouns: He/Him
 ⚡ Fun fact: I’ve worked on creating Digital design circuits and would love to more constribute in semiconductor industry
+Welcome to this repository . This repository consist of all basic digital design Circuits that are useful for getting started for learning
